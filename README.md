@@ -28,18 +28,24 @@
    ```bash
    git clone https://github.com/yourusername/hashcracker.git
    cd hashcracker
+
+---
+
 ## 📂 Included Wordlist: rockyou.txt
-This repository includes the rockyou.txt wordlist — a popular collection of commonly used passwords, often used in password recovery and hash cracking.
+This repository includes the well-known rockyou.txt wordlist – a collection of commonly used passwords.
 
-✅ How to Use It:
-The tool will automatically use rockyou.txt if no custom wordlist is selected.
+✅ Default Behavior: If no custom wordlist is selected, rockyou.txt will be used automatically.
 
-You can also choose your own wordlist using the "Browse" option in the GUI.
+📁 Custom Wordlists: You can select any .txt file containing passwords (one per line) via the “Browse” option.
 
-⚠️ Note: rockyou.txt is included for educational and ethical use only. Do not use this tool or the wordlist for unauthorized access or malicious activity.
+⚠️ Note: Included for educational purposes only. Do not use for unauthorized access or illegal activity.
+
+---
 ### 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repo and submit a pull request. For major changes, please open an issue first to discuss.
+
+---
 
 ### ⚠️ Disclaimer
 

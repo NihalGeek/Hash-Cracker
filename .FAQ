@@ -1,0 +1,10 @@
+### ❓ FAQ
+
+**Q: Why isn’t my hash being cracked?**  
+A: Ensure it’s supported (MD5, SHA-1, SHA-256, SHA-512) and present in the wordlist.
+
+**Q: Can I use other wordlists?**  
+A: Yes, load any `.txt` file with one password per line.
+
+**Q: The app is slow!**  
+A: Large wordlists can be CPU-intensive. Consider optimizing your environment or using shorter lists.

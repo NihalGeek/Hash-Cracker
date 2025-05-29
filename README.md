@@ -37,3 +37,10 @@ The tool will automatically use rockyou.txt if no custom wordlist is selected.
 You can also choose your own wordlist using the "Browse" option in the GUI.
 
 ⚠️ Note: rockyou.txt is included for educational and ethical use only. Do not use this tool or the wordlist for unauthorized access or malicious activity.
+### 🤝 Contributing
+
+Contributions are welcome! Feel free to fork the repo and submit a pull request. For major changes, please open an issue first to discuss.
+
+### ⚠️ Disclaimer
+
+This tool is for educational and ethical testing purposes only. Do not use it for unauthorized or illegal activities.
